@@ -40,16 +40,8 @@
 
 ---
 
-## 🌟 Featured Projects
 
-- 🧠 [**AI Chatbot**](#) — A simple chatbot using JavaScript & OpenAI API  
-- 📦 [**Inventory System**](#) — CRUD-based system for managing stock  
-- 🌐 [**Portfolio Website**](#) — Personal website built using HTML, CSS, and JS  
-- 🎥 [**Video Downloader Website**](#) — A web app to download videos easily using JavaScript and Python
 
-- 
-
-> 🔸 *More projects coming soon... Stay tuned!*
 
 ---
 
