@@ -1,30 +1,3 @@
-# GitHub Profile README
-
-Here's a complete and visually appealing README for your GitHub profile:
-
-```markdown
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Nazim Pahore;Software+Engineering+Student;MERN+Stack+Developer;Web+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Nazim Pahore
-located_in: Hyderabad, Pakistan
-current_education: Software Engineering @ MUET
-fields_of_interests:
-  - Web Development
-  - Artificial Intelligence
-  - Building Real-World Projects
-currently_learning: MERN Stack
-hobbies: ["Traveling", "Exploring", "Learning New Things"]
-goal: Creating Impactful Tech Products 🚀
-```
-
 - 🎓 Software Engineering Student at **MUET**
 - 💻 Passionate about **Web Development** & **AI**
 - 🌱 Currently learning **MERN Stack** and building real-world projects
@@ -97,7 +70,7 @@ goal: Creating Impactful Tech Products 🚀
   <a href="www.facebook.com/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="YOUR_INSTAGRAM_URL">
+  <a href="(https://www.facebook.com/share/1SSmVPPeXt/)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:nazimpahore8@gmail.com">
