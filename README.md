@@ -67,10 +67,13 @@
   <a href="www.nazimpahore.tech">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="www.facebook.com/">
+<a href="https://www.linkedin.com/in/nazim-pahore-4908473a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+  
+  <a href="https://www.facebook.com/share/1SSmVPPeXt/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="(https://www.facebook.com/share/1SSmVPPeXt/)">
+  <a href="https://www.instagram.com/nazimpahore10/?utm_source=qr&r=nametag">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:nazimpahore8@gmail.com">
