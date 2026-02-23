@@ -1,6 +1,6 @@
 - 🎓 Software Engineering Student at **MUET**
 - 💻 Passionate about **Web Development** & **AI**
-- 🌱 Currently learning **MERN Stack** and building real-world projects
+- 🌱 Currently learning **Full Stack Stack** and building real-world projects
 - 🚀 Dreaming big — aiming to create impactful tech products
 - ✨ I love to **travel**, explore, and keep learning new things!
 
