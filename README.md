@@ -1,6 +1,9 @@
-# Hi there, I'm Nazim Pahore 👋
+<h1 align="center">Hi there, I'm Nazim Pahore 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | Dreaming Big, Building Bigger</h3>
 
-> *Full Stack Developer | MERN Stack Enthusiast | Dreaming Big, Building Bigger*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Building+with+the+MERN+Stack;Turning+Ideas+into+Impactful+Products;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -17,6 +20,7 @@
 
 ### 💻 Programming & Development
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-**Also:** CRUD Operations · Database Design & Management
+**Also:** CRUD Operations · Database Design & Management · Component-Driven UI (React Hooks, Context API)
 
 ---
 
@@ -44,7 +48,7 @@
 ### 🤝 Soft Skills
 
 | 💡 Problem-Solving | 🗣️ Effective Communication | 👥 Team Collaboration |
-|:-:|:-:|:-:|
+|:---:|:---:|:---:|
 | 🧠 Strategic Thinking | 🎯 Goal-Oriented | 🔄 Adaptability |
 | 📚 Continuous Learning | | |
 
@@ -67,8 +71,18 @@
 
 I'm always open to collaborating on exciting projects or just having a good conversation about tech!
 
-> *"Code. Learn. Build. Repeat."*
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
----
+> *"Code. Learn. Build. Repeat."*
 
 <p align="center">Made with ❤️ by Nazim Pahore</p>
