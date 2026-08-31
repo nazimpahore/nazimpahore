@@ -76,6 +76,9 @@
 I'm always open to collaborating on exciting projects or just having a good conversation about tech!
 
 <p align="center">
+  <a href="https://nazimpahore.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/nazimpahore" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
